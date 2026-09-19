@@ -48,8 +48,8 @@ A fast, modular Discord AI bot with multimodal vision support, persistent local 
 
 ```
 # Clone repository
-git clone https://github.com/hoshimiMiyabi-dev/Chatty.ai.git
-cd chatty-ai
+git clone https://github.com/hoshimiMiyabi-dev/Axa.git
+cd Axa
 
 # Install dependencies
 pip install -r requirements.txt
